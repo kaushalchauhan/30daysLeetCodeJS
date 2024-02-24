@@ -1,14 +1,14 @@
 // Problem 2620 - Counter
 
 // Option 1 - using function
-// const createrCounter = function (n) {
+// const createCounter = function (n) {
 //   let count = n;
 //   return function () {
 //     return console.log(count++);
 //   };
 // };
 
-// const counter = createrCounter(10);
+// const counter = createCounter(10);
 // counter();
 // counter();
 // counter();

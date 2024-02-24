@@ -2,7 +2,7 @@
 // createCounter that support below three functions, increment(), decrement(), reset()
 // init - 2, increment() - 3, increment() - 4, decrement() - 3, reset() - 2
 
-// Solution 1 - using functional apporach
+// Solution 1 - using functional approach
 // const createCounter = function (init) {
 //   let initCount = init;
 //   function increment() {
