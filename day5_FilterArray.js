@@ -12,9 +12,12 @@ const condition = (n) => {
 
 const FilterArr = (arr, fn) => {
   const res = [];
-  for (let i = 0; i < arr.length; i++) {
-    if (fn(arr[i])) {
-      res.push(arr[i]);
+  // for (let i = 0; i < arr.length; i++) {
+  for (const [i, element] of arr.entries()) {
+    if (fn(arr[i], i, arr)) {
+      // 2nd and 3rd arg to handle edge case, and now this will work the same as inbuilt filter works,
+      // res.push(arr[i]);
+      res.push(element);
     }
   }
   return res;
