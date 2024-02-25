@@ -6,3 +6,4 @@
 4. Transform Array (Problem - 2635)
 5. Filter Array (Problem - 2634)
 6. day 6 flatArr, memo concept using closure
+7. day 7 - Array Reduce Transformation (Problem - 2626)
