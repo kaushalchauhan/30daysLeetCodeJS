@@ -12,3 +12,5 @@
 10. day 9 - Problem - Return Length of Arguments Passed(2703)
 11. day 10 - Problem Add two Promises (2723)
 12. day 11 - Problem - Sleep - 2621
+13. day 19 - [Problem - 2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/)
+14. day 19 - [Problem - 2631. Group By](https://leetcode.com/problems/group-by/description)
