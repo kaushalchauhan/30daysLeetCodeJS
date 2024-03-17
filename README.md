@@ -18,3 +18,4 @@
 16. day 21 - [Problem - 2722. Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/description)
 17. day 22 - [Problem - 2625. Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description)
 18. day 28 - [Problem 2694. Event Emitter](https://leetcode.com/problems/event-emitter/description)
+19. day 29 - [Problem - 2695. Array Wrapper](https://leetcode.com/problems/array-wrapper/description)
